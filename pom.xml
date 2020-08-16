@@ -9,7 +9,7 @@
     <packaging>pom</packaging>
 
     <name>Packetty</name>
-    <description>A simple wrapper around the Netty framework that implements packet-based communication between client and server.</description>
+    <description>Packetty is a simple, packet-based and event-driven Netty wrapper that saves you a lot of work.</description>
     <url>https://github.com/Krymonota/packetty</url>
     <inceptionYear>2020</inceptionYear>
 
