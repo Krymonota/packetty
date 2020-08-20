@@ -105,7 +105,7 @@ libraryDependencies += "id.niklas" % "packetty-server" % "1.1.3"
 Check out [Packetty Ping Pong](https://github.com/Krymonota/packetty-pingpong) for a simple example project that demonstrates the use of Packetty.
 
 ## Used dependencies and tools
-Don't worry, we already take care of our dependencies so that you don't have to deal with them! However, we wanted to draw some attention to the libraries and tools we use for this project.
+Don't worry, I've already taken care of the dependencies, so you won't have to. Nevertheless, I would like to draw attention to the software libraries and frameworks used, without which the project couldn't have been realized this way:
 - [Netty](https://netty.io/)
 - [Jackson](https://github.com/FasterXML/jackson)
 - [Moonwlker](https://github.com/bertilmuth/moonwlker)
